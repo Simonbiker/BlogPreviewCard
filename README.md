@@ -21,7 +21,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [git hub link](https://github.com/Simonbiker/BlogPreviewCard)
-- Live Site URL: [Live page](https://your-live-site-url.com)
+- Live Site URL: [Live page](https://simonbiker.github.io/BlogPreviewCard/)
 
 ## My process
 
